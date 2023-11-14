@@ -36,7 +36,7 @@ I already know how to make up pages and add interactive content to them. Now I a
 ## Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 
 <p align="center" >
     <a href="https://www.codewars.com/users/Reclyed">
