@@ -37,9 +37,6 @@ I already know how to make up pages and add interactive content to them. Now I a
 <div align="center">
 
 <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
-</p>
-<p align="center" >
     <a href="https://www.codewars.com/users/Reclyed" target="_blank">
       <img src="https://github.r2v.ch/codewars?user=Reclyed&stroke=%23BB432C" />
     </a>
@@ -48,6 +45,9 @@ I already know how to make up pages and add interactive content to them. Now I a
     <a href="https://leetcode.com/gosheeesh/" target="_blank">
       <img src="https://leetcode.card.workers.dev/gosheeesh?theme=dark&font=source_code_pro&extension=null" />
     </a>
+</p>
+<p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 </p>
 
 </div> 
