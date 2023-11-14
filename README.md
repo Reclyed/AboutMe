@@ -36,11 +36,12 @@ I already know how to make up pages and add interactive content to them. Now I a
 ## Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Reclyed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%; margin-bottom: 10px;" />
 
 <p align="center" >
     <a href="https://www.codewars.com/users/Reclyed">
-      <img src="https://github.r2v.ch/codewars?user=Reclyed" />
+      <img src="https://github.r2v.ch/codewars?user=Reclyed&stroke=%23BB432C" />
     </a>
 </p>
 <p align="center" >
